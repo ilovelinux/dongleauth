@@ -120,7 +120,7 @@ websites:
       software: Yes
       hardware: Yes
       otp: Yes
-      doc: https://kb.mailbox.org/x/5AcS
+      doc: https://kb.mailbox.org/en/private/account-article/how-to-use-two-factor-authentication-2fa
 
     - name: Mailfence
       url: https://mailfence.com/
